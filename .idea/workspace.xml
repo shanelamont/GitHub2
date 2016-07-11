@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0abf420d-62c4-4ba1-b5d2-decbd0da9e2b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Doubleme2.py" afterPath="$PROJECT_DIR$/Doubleme2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TripleMe.py" afterPath="$PROJECT_DIR$/TripleMe.py" />
     </list>
     <ignored path="GitHub2.iws" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="TripleMe.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TripleMe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="125">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -359,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1468271891329</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="for Jenkins test 2">
+      <created>1468272446616</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1468272446616</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -393,7 +399,8 @@
     <MESSAGE value="Double 4 (four)" />
     <MESSAGE value="Double 5" />
     <MESSAGE value="for Jenkins test" />
-    <option name="LAST_COMMIT_MESSAGE" value="for Jenkins test" />
+    <MESSAGE value="for Jenkins test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="for Jenkins test 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -410,8 +417,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TripleMe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="125">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding />
         </state>
       </provider>
