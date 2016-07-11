@@ -6,3 +6,5 @@ def TripleMe(x):
 # new file
 i = 6
 print(i, "tripled =", TripleMe(i))
+
+fail_this_file
