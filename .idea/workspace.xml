@@ -60,6 +60,11 @@
       <GitPushTagMode />
     </option>
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="shanelamont" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="GitHub2" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -339,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1468271320377</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Double 5">
+      <created>1468271505870</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1468271505870</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -371,7 +383,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New version of this TripleMe" />
     <MESSAGE value="Double 4 (four)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Double 4 (four)" />
+    <MESSAGE value="Double 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Double 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
