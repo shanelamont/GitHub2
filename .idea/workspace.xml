@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/TripleMe.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -365,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1468272446616</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="for Jenkins test 3">
+      <created>1468272672544</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1468272672544</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -400,7 +407,8 @@
     <MESSAGE value="Double 5" />
     <MESSAGE value="for Jenkins test" />
     <MESSAGE value="for Jenkins test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="for Jenkins test 2" />
+    <MESSAGE value="for Jenkins test 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="for Jenkins test 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -418,7 +426,7 @@
     <entry file="file://$PROJECT_DIR$/TripleMe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
