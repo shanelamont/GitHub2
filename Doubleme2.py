@@ -3,4 +3,6 @@ def doubleme(x):
 
 # add a comment'
 # git comment will be Double 5 (five)
-print(doubleme(6))
+
+i = 6
+print(i, "doubled =", doubleme(i))
