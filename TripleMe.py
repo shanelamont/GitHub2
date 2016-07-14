@@ -7,4 +7,3 @@ def TripleMe(x):
 i = 6
 print(i, "tripled =", TripleMe(i))
 
-fail_this_file
