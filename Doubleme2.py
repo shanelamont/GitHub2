@@ -4,7 +4,5 @@ def doubleme(x):
 # add a comment'
 # git comment will be Double 5 (five)
 
-i = 8
+i = 6
 print(i, "doubled =", doubleme(i))
-
-just a change
