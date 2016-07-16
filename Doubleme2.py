@@ -2,7 +2,7 @@ def doubleme(x):
     return x * 2
 
 # add a comment'
-# git comment will be Double 5 (five)
+# git comment will be Double
 
-i = 6
+i = 3
 print(i, "doubled =", doubleme(i))
